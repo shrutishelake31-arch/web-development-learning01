@@ -1,7 +1,7 @@
 # 🌐 Day 1 - HTML Basics
 
 ## 📖 Overview
-This project marks the beginning of my Web Development journey. It focuses on understanding the core concepts of HTML and creating simple web pages using fundamental HTML elements.
+This project marks the beginning of my Web Development journey. It focuses on understanding the core concepts of HTML and creating simple web pages using fundamental HTML elements.which helps me to start my html jounery also help me to do more projects.
 
 ## 🚀 Topics Covered
 - HTML Document Structure
@@ -17,7 +17,7 @@ To build a strong foundation in HTML and gain hands-on experience in creating ba
 - HTML5
 
 ## 📈 Progress
-✅ Completed Day 1 of HTML Learning
+ Completed Day 1 of HTML Learning
 
 ## 👩‍💻 Author
 **Shruti Shelake**  
